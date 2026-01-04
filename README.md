@@ -1,6 +1,10 @@
 # Driver-Drowsiness-Detection
-Built a car safety technology integrating deep learning and computer vision, reduced false drowsiness alerts and improved detection accuracy through real-time eye and retina analysis. Utilized OpenCV, TensorFlow, and Keras, enabling a 40% improvement in response time, significantly minimizing accident risks.
+Drowsiness detection is a safety technology that can prevent accidents that are caused by drivers who fell asleep while driving. The objective of this project is to build a drowsiness detection system that will detect drowsiness through the implementation of computer vision system that automatically detects drowsiness in real-time from a live video stream and then alert the user with an alarm notification.
+
+
+
 Project Overview 
+
 Dataset 1 
 intro
 Dataset 2
